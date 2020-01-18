@@ -1,4 +1,4 @@
-# Mater Course in Uppsala University
+# Master Course in Uppsala University
 ## Generalised-Linear-Model
 ### Using GAM and GLMM to predict the movie rating
 
