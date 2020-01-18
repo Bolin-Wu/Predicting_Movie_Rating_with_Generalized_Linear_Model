@@ -1,7 +1,6 @@
 library(tidyverse)
 library(mice)
 
-
 setwd("/Users/bolin/Documents/Master/GLM/exam/exam")
 
 data_complete_csv = read_csv("MOVIE.csv",col_types = cols(
