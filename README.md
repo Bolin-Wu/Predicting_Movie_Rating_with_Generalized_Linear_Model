@@ -1,5 +1,6 @@
 # Mater Course in Uppsala University
 ## Generalised-Linear-Model
+### Using GAM and GLMM to predict the movie rating
 
 Our data consist of 26 variables, aggregated from di􏰃erent data bases. The available variables are
 1. belongs_to_collection: whether the movie belongs to a collection or not. 1=Yes and 0=No.
