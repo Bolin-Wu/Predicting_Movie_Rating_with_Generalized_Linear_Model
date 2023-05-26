@@ -1,6 +1,6 @@
-# Master Course in Uppsala University
-## Generalised-Linear-Model
-### Using GAM and GLMM to predict the movie rating
+# Generalised-Linear-Model, Master Course in Uppsala University 
+
+The aim is to using GAM and GLMM to predict the movie rating
 
 Our data consist of 26 variables, aggregated from different data bases. The available variables are
 1. belongs_to_collection: whether the movie belongs to a collection or not. 1=Yes and 0=No.
@@ -22,4 +22,6 @@ Our data consist of 26 variables, aggregated from different data bases. The avai
 17. vote_another_site1: Total number of 1 star vote of a given movie from website 2.
 18. vote_another_site2: Total number of 2 stars vote of a given movie from website 2. Likewise, we have vote_another_site3 to vote_another_site10.
 
-A final report is available [here](https://github.com/Bolin-Wu/Predicting_Movie_Rating_with_Generalized_Linear_Model/blob/master/Final_Project_Bolin.pdf)
+* A final report is available [here](https://github.com/Bolin-Wu/Predicting_Movie_Rating_with_Generalized_Linear_Model/blob/master/Final_Project_Bolin.pdf).
+
+* The R code is available [here](https://github.com/Bolin-Wu/Predicting_Movie_Rating_with_Generalized_Linear_Model/blob/master/Modeling_Code.R).
