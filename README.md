@@ -21,3 +21,5 @@ Our data consist of 26 variables, aggregated from different data bases. The avai
 16. vote_count: Total number of votes of a given movie from website 1.
 17. vote_another_site1: Total number of 1 star vote of a given movie from website 2.
 18. vote_another_site2: Total number of 2 stars vote of a given movie from website 2. Likewise, we have vote_another_site3 to vote_another_site10.
+
+A final report is available [here](https://github.com/Bolin-Wu/Predicting_Movie_Rating_with_Generalized_Linear_Model/blob/master/Final_Project_Bolin.pdf)
